@@ -26,6 +26,25 @@
 
 <hr>
 
+<h2 align="center">🌐 <i>Mi Portfolio</i></h2>
+
+<p align="center">
+  <i>
+    Tengo conocimientos básicos en HTML y CSS, y actualmente continúo fortaleciendo
+    mis habilidades en desarrollo web mientras aprendo conceptos de Backend,
+    APIs y bases de datos.
+  </i>
+</p>
+
+<p align="center">
+  <!-- Botón visual del portfolio -->
+  <a href="https://catau213.github.io/">
+    <img src="https://img.shields.io/badge/VER_PORTFOLIO-8F4F3F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Ver Portfolio">
+  </a>
+</p>
+
+<hr>
+
 <h2 align="center">📌 <i>Mis proyectos</i></h2>
 
 <table align="center">
