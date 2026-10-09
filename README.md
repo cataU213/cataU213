@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./b_Kaigue.png" alt="Banner de Cata Ullon" width="100%">
+  <img src="./brujita.png" alt="Banner de Cata Ullon" width="100%">
 </p>
 
 <h1 align="center">🌙 Cata Ullon</h1>
