@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center">
+  <img src="./b_Kaigue.png" alt="Banner de Cata Ullon" width="100%">
+</p>
 
-<!--
-**cataU213/cataU213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🌙 Cata Ullon</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Estudiante de Ingeniería en Informática · Backend & Full Stack Junior
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  React · Node.js · TypeScript · SQL · Git · Bases de Datos
+</p>
