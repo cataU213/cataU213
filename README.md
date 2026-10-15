@@ -58,9 +58,17 @@ Mi objetivo es continuar creciendo hasta desenvolverme con solidez en el desarro
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/HTML-8F4F3F?style=flat-square&logo=html5&logoColor=white" alt="HTML">
-<img src="https://img.shields.io/badge/CSS-40596A?style=flat-square&logo=css3&logoColor=white" alt="CSS">
-<img src="https://img.shields.io/badge/Bootstrap-80652F?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
+  <img src="https://img.shields.io/badge/HTML-8F4F3F?style=flat-square&logo=html5&logoColor=white">
+</a>
+
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
+  <img src="https://img.shields.io/badge/CSS-40596A?style=flat-square&logo=css3&logoColor=white">
+</a>
+
+<a href="https://getbootstrap.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Bootstrap-80652F?style=flat-square&logo=bootstrap&logoColor=white">
+</a>
 </p>
 
 <p>
@@ -82,10 +90,21 @@ Mi objetivo es continuar creciendo hasta desenvolverme con solidez en el desarro
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/React-315E73?style=flat-square&logo=react&logoColor=white" alt="React">
-<img src="https://img.shields.io/badge/JavaScript-80652F?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
-<img src="https://img.shields.io/badge/Vite-8F4F3F?style=flat-square&logo=vite&logoColor=white" alt="Vite">
-<img src="https://img.shields.io/badge/CSS-40596A?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+<a href="https://react.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/React-315E73?style=flat-square&logo=react&logoColor=white">
+</a>
+
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
+  <img src="https://img.shields.io/badge/JavaScript-80652F?style=flat-square&logo=javascript&logoColor=white">
+</a>
+
+<a href="https://vite.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Vite-8F4F3F?style=flat-square&logo=vite&logoColor=white">
+</a>
+
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
+  <img src="https://img.shields.io/badge/CSS-40596A?style=flat-square&logo=css3&logoColor=white">
+</a>
 </p>
 
 <p>
@@ -105,11 +124,25 @@ Mi objetivo es continuar creciendo hasta desenvolverme con solidez en el desarro
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Express-2D5D59?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-<img src="https://img.shields.io/badge/PostgreSQL-315E73?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Oracle-8F4F3F?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
-<img src="https://img.shields.io/badge/REST_API-80652F?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API">
-<img src="https://img.shields.io/badge/GitHub-40596A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Express-2F6B5F?style=flat-square&logo=express&logoColor=white">
+</a>
+
+<a href="https://www.postgresql.org/docs/" target="_blank">
+  <img src="https://img.shields.io/badge/PostgreSQL-40596A?style=flat-square&logo=postgresql&logoColor=white">
+</a>
+
+<a href="https://docs.oracle.com/en/database/" target="_blank">
+  <img src="https://img.shields.io/badge/Oracle-8F4F3F?style=flat-square&logo=oracle&logoColor=white">
+</a>
+
+<a href="https://developer.mozilla.org/es/docs/Glossary/REST" target="_blank">
+  <img src="https://img.shields.io/badge/REST_API-80652F?style=flat-square">
+</a>
+
+<a href="https://docs.github.com/" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-40596A?style=flat-square&logo=github&logoColor=white">
+</a>
 </p>
 
 <hr>
