@@ -32,10 +32,12 @@ Mi objetivo es continuar creciendo hasta desenvolverme con solidez en el desarro
 </p>
 
 <p align="center">
-  <!-- Botón visual del portfolio -->
-  <a href="TU_ENLACE" class="portfolio-icon" title="Ver portafolio">
-    🌐
-</a>
+  <a href="https://catau213.github.io/">
+    <img src="https://img.icons8.com/fluency/96/domain.png" width="55" alt="Mi Portafolio">
+  </a>
+  <br>
+  <b>Mi Portafolio</b>
+</p>
 </p>
 
 <hr>
@@ -116,7 +118,7 @@ Mi objetivo es continuar creciendo hasta desenvolverme con solidez en el desarro
 
 <p align="center">
   <i>
-    Seguir desarrollando mis habilidades en programación y participar en proyectos donde pueda aplicar conocimientos de backend, bases de datos, desarrollo web e integración de sistemas.
+  Seguir desarrollando mis habilidades en programación, aplicando mis conocimientos de Frontend y profundizando en Backend, bases de datos, desarrollo web e integración de sistemas, con el objetivo de crecer progresivamente hacia un perfil Full Stack.
   </i>
 </p>
 
