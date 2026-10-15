@@ -14,33 +14,28 @@
 
 <p align="center">
   <i>
-    Soy estudiante de Ingeniería en Informática, actualmente enfocada en fortalecer mis conocimientos en desarrollo Backend y Full Stack.
+   <p> Soy estudiante de Ingeniería en Informática, con experiencia práctica en desarrollo Frontend utilizando HTML, CSS y JavaScript. Actualmente estoy enfocada en seguir fortaleciendo mis conocimientos en Backend y desarrollo Full Stack.</p>
+    <p>
+Me interesa especialmente profundizar en bases de datos, APIs, integración de sistemas y lógica del lado del servidor. Para seguir mejorando, desarrollo pequeños proyectos personales que me permiten poner en práctica tanto mis habilidades de Frontend como los conceptos relacionados con Backend y bases de datos.</p>
+    <p>
+Mi objetivo es continuar creciendo hasta desenvolverme con solidez en el desarrollo Full Stack, combinando interfaces funcionales con sistemas bien estructurados y conectados a bases de datos..
   </i>
 </p>
-
-<p align="center">
-  <i>
-    Me interesa especialmente trabajar con bases de datos, APIs, integración de sistemas y desarrollo de aplicaciones web.
-  </i>
-</p>
-
 <hr>
 
 <h2 align="center">🌐 <i>Mi Portfolio</i></h2>
 
 <p align="center">
   <i>
-    Tengo conocimientos básicos en HTML y CSS, y actualmente continúo fortaleciendo
-    mis habilidades en desarrollo web mientras aprendo conceptos de Backend,
-    APIs y bases de datos.
+    Tengo conocimientos en HTML, CSS y JavaScript aplicados al desarrollo Frontend, y actualmente continúo fortaleciendo mis habilidades mientras aprendo conceptos de Backend, APIs y bases de datos.
   </i>
 </p>
 
 <p align="center">
   <!-- Botón visual del portfolio -->
-  <a href="https://catau213.github.io/">
-    <img src="https://img.shields.io/badge/VER_PORTFOLIO-8F4F3F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Ver Portfolio">
-  </a>
+  <a href="TU_ENLACE" class="portfolio-icon" title="Ver portafolio">
+    🌐
+</a>
 </p>
 
 <hr>
